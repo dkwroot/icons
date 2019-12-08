@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Moho 13.0.3 build 643 -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Frame_14" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000px" height="1000px">
+<g id="Layer_21">
+<path fill="#74aa64" fill-rule="evenodd" stroke="none" d="M 469.029 28.049 C 347.842 105.914 95.674 244.429 95.627 244.439 C 95.623 244.443 73.156 267.472 73.197 283.610 C 72.984 427.920 73.000 572.234 73.197 716.554 C 73.193 732.653 95.656 755.689 95.660 755.693 C 95.706 755.703 344.374 900.073 469.061 972.279 C 483.014 980.370 500.152 980.370 514.102 972.279 C 638.296 900.100 762.720 827.945 887.357 755.774 C 901.304 747.603 909.829 732.736 909.869 716.635 C 909.631 572.288 909.662 427.948 909.869 283.610 C 909.868 267.512 887.312 244.410 887.308 244.406 C 887.261 244.396 638.315 100.132 514.151 28.000 C 500.198 19.908 469.116 27.999 469.111 28.000 C 469.111 28.000 468.825 28.046 469.029 28.049 Z"/>
+<path fill="none" stroke="#3e863d" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round" d="M 514.102 972.279 C 500.152 980.370 483.014 980.370 469.061 972.279 "/>
+<path fill="none" stroke="#3e863d" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round" d="M 469.061 972.279 C 344.374 900.073 95.706 755.703 95.660 755.693 "/>
+<path fill="#3e863d" fill-rule="evenodd" stroke="none" d="M 95.660 755.693 C 149.632 679.165 203.604 602.637 257.576 526.109 C 343.922 676.289 428.594 823.555 514.102 972.279 C 500.152 980.370 483.014 980.370 469.061 972.279 C 344.374 900.073 95.706 755.703 95.660 755.693 Z"/>
+<path fill="none" stroke="#66a05b" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round" d="M 257.576 526.109 C 203.604 602.637 149.632 679.165 95.660 755.693 "/>
+<path fill="none" stroke="#66a05b" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round" d="M 95.660 755.693 C 95.656 755.689 73.193 732.653 73.197 716.554 "/>
+<path fill="none" stroke="#66a05b" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round" d="M 73.197 716.554 C 73.000 572.234 72.984 427.920 73.197 283.610 "/>
+<path fill="none" stroke="#66a05b" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round" d="M 73.197 283.610 C 73.156 267.472 95.623 244.443 95.627 244.439 "/>
+<path fill="#66a05b" fill-rule="evenodd" stroke="none" d="M 95.627 244.439 C 150.028 339.057 204.430 433.675 257.576 526.109 C 203.604 602.637 149.632 679.165 95.660 755.693 C 95.656 755.689 73.193 732.653 73.197 716.554 C 73.000 572.234 72.984 427.920 73.197 283.610 C 73.156 267.472 95.623 244.443 95.627 244.439 Z"/>
+<path fill="none" stroke="#6ca25f" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round" d="M 469.111 28.000 C 469.111 28.000 468.825 28.046 469.029 28.049 "/>
+<path fill="none" stroke="#6ca25f" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round" d="M 469.111 28.000 C 469.116 27.999 500.198 19.908 514.151 28.000 "/>
+<path fill="none" stroke="#6ca25f" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round" d="M 514.151 28.000 C 638.315 100.132 887.261 244.396 887.308 244.406 "/>
+<path fill="#6ca25f" fill-rule="evenodd" stroke="none" d="M 887.308 244.406 C 847.668 328.133 808.028 411.859 768.388 495.586 C 668.924 340.185 569.018 184.092 469.111 28.000 C 469.111 28.000 468.825 28.046 469.029 28.049 C 469.116 27.999 500.198 19.908 514.151 28.000 C 638.315 100.132 887.261 244.396 887.308 244.406 Z"/>
+<path fill="none" stroke="#418741" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round" d="M 909.869 716.635 C 909.631 572.288 909.662 427.948 909.869 283.610 "/>
+<path fill="none" stroke="#418741" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round" d="M 909.869 283.610 C 909.868 267.512 887.312 244.410 887.308 244.406 "/>
+<path fill="none" stroke="#418741" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round" d="M 887.308 244.406 C 847.668 328.133 808.028 411.859 768.388 495.586 "/>
+<path fill="#418741" fill-rule="evenodd" stroke="none" d="M 768.388 495.586 C 815.843 569.730 862.709 642.952 909.869 716.635 C 909.631 572.288 909.662 427.948 909.869 283.610 C 909.868 267.512 887.312 244.410 887.308 244.406 C 847.668 328.133 808.028 411.859 768.388 495.586 Z"/>
+</g>
+</svg>
