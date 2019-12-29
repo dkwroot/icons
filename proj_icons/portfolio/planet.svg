@@ -127,8 +127,10 @@
 </g>
 <g id="PLANET">
 <path fill="#3a3a3a" fill-rule="evenodd" stroke="none" d="M 360.000 240.494 C 426.146 240.494 479.506 293.854 479.506 360.000 C 479.506 426.146 426.146 479.506 360.000 479.506 C 293.854 479.506 240.494 426.146 240.494 360.000 C 240.494 293.854 293.854 240.494 360.000 240.494 Z"/>
-<path id="PlanetPath" fill="#2b2b2b" fill-rule="evenodd" stroke="none" d="M 360.000 266.085 C 411.981 266.085 453.915 308.019 453.915 360.000 C 453.915 411.981 411.981 453.915 360.000 453.915 C 308.019 453.915 266.085 411.981 266.085 360.000 C 266.085 308.019 308.019 266.085 360.000 266.085 Z"/>
-<text y="50" x="0" textLength="300" lengthAdjust="spacing" fill="white">
+<defs>
+    <path id="PlanetPath" fill="#2b2b2b" fill-rule="evenodd" stroke="none" d="M 360.000 266.085 C 411.981 266.085 453.915 308.019 453.915 360.000 C 453.915 411.981 411.981 453.915 360.000 453.915 C 308.019 453.915 266.085 411.981 266.085 360.000 C 266.085 308.019 308.019 266.085 360.000 266.085 Z"/>
+</defs>
+<text fill="white">
     <textPath alignment-baseline="top" xlink:href="#PlanetPath">
         C++ - Python - Javascript - Node.js  - MongoDB - SQL - React - Bootstrap - Lua - CSS3 -
     </textPath>
